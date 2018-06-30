@@ -1,6 +1,6 @@
 Learning GIT
 
-This is JD's first attempt at creating smething using GIT!
+This is JD's first attempt at creating something using GIT!
 
 We shall see how it goes...
 
